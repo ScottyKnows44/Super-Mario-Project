@@ -1,0 +1,23 @@
+{
+  "name": "super-mario",
+  "version": "1.0.0",
+  "description": "project to make super mario",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottyKnows44/Super-Mario-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottyKnows44/Super-Mario-Project/issues"
+  },
+  "homepage": "https://github.com/ScottyKnows44/Super-Mario-Project#readme",
+  "dependencies": {
+    "serve": "^6.5.6"
+  }
+}
